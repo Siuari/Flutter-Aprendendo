@@ -1,3 +1,4 @@
+import 'Base/Entity.dart';
 import 'Consulta.dart';
 import 'Plano.dart';
 
